@@ -15,3 +15,5 @@ delete_last_entry()
 add_entry("B: replaced deleted entry")
 print("Executed by A")
 print("Executed by B")
+
+add_entry("A iteration")
