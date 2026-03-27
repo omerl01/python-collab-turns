@@ -13,3 +13,4 @@ add_entry("A: refining update")
 
 delete_last_entry()
 add_entry("B: replaced deleted entry")
+print("Executed by A")
