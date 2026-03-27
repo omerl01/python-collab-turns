@@ -17,3 +17,4 @@ print("Executed by A")
 print("Executed by B")
 
 add_entry("A iteration")
+add_entry("B iteration")
